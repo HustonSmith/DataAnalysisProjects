@@ -1,2 +1,2 @@
-# Data Analysis Projects
-Projects in Data Analysis with varying levels of intricacy and tools.
+# Data Analysis Projects In RStudio
+This branch will include projects done by Huston Smith in Rstudio.
